@@ -29,7 +29,7 @@ Currently open to:
 - ![Brain](https://img.shields.io/badge/Brain-20C2E2?style=flat&logo=brain&logoColor=white) Predictive Modeling, Feature Engineering
 - ![Data Analysis](https://img.shields.io/badge/Data%20Wrangling%20&%20Statistical%20Analysis-2980B9?style=flat&logo=python&logoColor=white) Data Wrangling & Statistical Analysis
 
-### 🌐 Web Development
+### 🌐 Software & Web Development
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript (ES6+), React
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5, CSS3, Responsive Design
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) RESTful APIs, Git & GitHub
